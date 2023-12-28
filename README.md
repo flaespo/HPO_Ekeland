@@ -1,2 +1,2 @@
 # HPO_Ekeland
-Repository for method proposed in "How to deal with hyperparameters Optimization: New Existence Theorems and Stopping Criteria"
+Repository for method proposed in "Assess optimal penalty hyperparameters in nonnegative matrix factorization within Hilbert spaces perspective"
